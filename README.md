@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+🚀 Smart Study Assistant:-
+An AI-inspired, interactive study tracker built with React that helps students manage study time, track progress, maintain streaks, and stay motivated with real-time insights.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🌐 Live Demo:-
+🔗 https://kavya-study.vercel.app
 
-## Available Scripts
+✨ Key Features:-
 
-In the project directory, you can run:
+🔐 Authentication System:-
+- Secure login & signup using Firebase Authentication
+- Real-time user session handling
 
-### `npm start`
+📊 Study Tracker:-
+- Add subjects with study hours
+- Dynamic total hour calculation
+- Delete entries anytime
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+📈 Data Visualization:-
+- Interactive bar charts using Chart.js
+- Visual representation of subject-wise study time
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🎯 Goal Management:-
+- Set daily/weekly study goals
+- Progress bar with real-time percentage
+- Color-based progress indicator
 
-### `npm test`
+🔥 Streak System:-
+- Tracks daily study consistency
+- Smart streak calculation using date logic
+- Motivational streak UI with animations
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🎁 Reward System:-
+- Auto-generated motivational messages
+- Rewards based on streak and goals
+- Dynamic feedback like:
+  - 🔥 “Streak growing!”
+  - 👑 “You're on fire!”
+  - 🎉 “Goal achieved!”
 
-### `npm run build`
+🧠 Smart Insights:-
+- AI-like feedback based on performance:
+  - Encouragement when improving
+  - Alerts when below goal
+  - Motivation for consistency
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🎨 Advanced UI/UX:-
+- Glassmorphism design
+- Animated UI with Framer Motion
+- Interactive 3D tilt effect
+- Particle background animation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🛠️ Tech Stack:-
+- ⚛️ React.js - 🔥 Firebase Authentication
+- 📊 Chart.js
+- 🎞️ Framer Motion
+- 🌌 tsParticles (background animation)
+- 💾 LocalStorage (data persistence)
+- ☁️ Deployed on Vercel
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📂 Project Structure:-
+study-assistant/
+│── public/
+│── src/
+│   ├── App.js
+│   ├── firebase.js
+│   ├── components/
+│   ├── assets/
+│── package.json
 
-### `npm run eject`
+⚙️ Installation & Setup:-
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1️⃣ Clone Repository:-
+git clone https://github.com/your-username/study-assistant.git
+cd study-assistant
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2️⃣ Install Dependencies:-
+npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3️⃣ Firebase Setup;-
+- Create a project on Firebase
+- Enable Email/Password Authentication
+- Add your config in "firebase.js"
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4️⃣ Run the App:-
+npm start
 
-## Learn More
+🚀 Deployment:-
+This project is deployed using Vercel.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+👩‍💻 Author:-
+Kavya Soni
+🎓 BCA (Honors)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+⭐ Support:-
+If you found this project helpful, please star ⭐ the repository!
 
-### Code Splitting
+💡 Inspiration:-
+Built to solve real student problems:
+- Lack of consistency
+- Poor time management
+- No motivation tracking
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This app combines productivity + psychology + visualization to improve learning habits.
