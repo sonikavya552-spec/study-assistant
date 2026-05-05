@@ -87,6 +87,7 @@ npm install
 
 npm start
 
+
 🚀 Deployment:-
 This project is deployed using Vercel.
 
