@@ -73,7 +73,7 @@ study-assistant/
 
 1️⃣ Clone Repository:-
 
-git cloneb - https://github.com/your-username/study-assistant.git
+git clone - https://github.com/your-username/study-assistant.git
 
 cd study-assistant
 
