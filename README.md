@@ -71,6 +71,7 @@ study-assistant/
 
 1️⃣ Clone Repository:-
 git clone https://github.com/your-username/study-assistant.git
+
 cd study-assistant
 
 2️⃣ Install Dependencies:-
