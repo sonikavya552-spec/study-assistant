@@ -93,6 +93,7 @@ This project is deployed using Vercel.
 
 👩‍💻 Author:-
 Kavya Soni
+
 🎓 BCA (Honors)
 
 ⭐ Support:-
