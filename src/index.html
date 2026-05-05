@@ -1,0 +1,21 @@
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyBqrRDiqjYhp-VYsb59GDq41a0Y7gafjMA",
+  authDomain: "smart-study-app-726ac.firebaseapp.com",
+  projectId: "smart-study-app-726ac",
+  storageBucket: "smart-study-app-726ac.firebasestorage.app",
+  messagingSenderId: "841078629193",
+  appId: "1:841078629193:web:cb0510e174506486d97098",
+  measurementId: "G-6LQDC7Z1TV"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
