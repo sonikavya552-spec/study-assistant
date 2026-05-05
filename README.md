@@ -70,7 +70,8 @@ study-assistant/
 ⚙️ Installation & Setup:-
 
 1️⃣ Clone Repository:-
-git clone https://github.com/your-username/study-assistant.git
+
+git cloneb - https://github.com/your-username/study-assistant.git
 
 cd study-assistant
 
