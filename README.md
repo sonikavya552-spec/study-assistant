@@ -75,6 +75,7 @@ git clone https://github.com/your-username/study-assistant.git
 cd study-assistant
 
 2️⃣ Install Dependencies:-
+
 npm install
 
 3️⃣ Firebase Setup;-
@@ -83,6 +84,7 @@ npm install
 - Add your config in "firebase.js"
 
 4️⃣ Run the App:-
+
 npm start
 
 🚀 Deployment:-
