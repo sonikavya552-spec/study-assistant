@@ -1,4 +1,5 @@
 🚀 Smart Study Assistant:-
+
 An AI-inspired, interactive study tracker built with React that helps students manage study time, track progress, maintain streaks, and stay motivated with real-time insights.
 
 🌐 Live Demo:-
