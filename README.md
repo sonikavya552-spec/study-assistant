@@ -51,7 +51,7 @@ An AI-inspired, interactive study tracker built with React that helps students m
 - Particle background animation
 
 🛠️ Tech Stack:-
-- ⚛️ React.js -
+- ⚛️ React.js 
 - 🔥 Firebase Authentication
 - 📊 Chart.js
 - 🎞️ Framer Motion
